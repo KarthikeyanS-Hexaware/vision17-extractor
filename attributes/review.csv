@@ -1,0 +1,14 @@
+classname,tagname 
+review-body,DIV
+review-info clearfix,DIV
+review pageable-item-js item  user-has-image   clearfix,DIV
+review-stack,DIV
+reviews-container,DIV
+col-xs-12 col-sm-12 col-md-8 column-1 selected,DIV
+row,DIV
+container reviews-info,DIV
+companyinformation-wrapper clearfix,DIV
+page-content,MAIN
+wrapper,DIV
+,BODY
+,
